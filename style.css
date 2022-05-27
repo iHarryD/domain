@@ -579,3 +579,9 @@ footer {
 .search-hide {
   display: none;
 }
+
+main#achievements {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
